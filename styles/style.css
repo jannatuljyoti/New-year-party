@@ -39,8 +39,9 @@
 .holiday{
     justify-content: center;
     align-items: center;
-    padding: 96px ;
-    height: 645px;
+    top: 616px;
+    
+  
 
 }
 
@@ -49,6 +50,7 @@
     color: rgb(255, 0, 0);
     font-weight: 700;
     font-size: 88px;
+   
 }
  
 .deals{
@@ -76,3 +78,58 @@
     height: 400px;
 
 }
+
+
+/* vector style */
+
+.vector{
+    background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+    background-image:url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    border-radius: 12px;
+    background-position: center;
+    /* align-items: center; */
+   ;
+    padding: 225px;
+    border-radius: 12px;
+    
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.vector-box{
+   text-align: left;
+  
+}
+
+.vector-box-heading{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+text-align: left;
+
+}
+
+.vector-box-p{
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+      
+}
+
+.vector-button{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    
+}
+
