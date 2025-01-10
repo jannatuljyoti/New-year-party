@@ -1,0 +1,78 @@
+/* hearder style  */
+.banner{
+    height: 600px;
+    
+
+    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+    background-image:url(/images/Banner\ Image.png);
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+  
+}
+
+.title{
+    font-size: 32px;
+    color:#FFFFFF ;
+   padding-top: 177px;
+}
+
+.title-2{
+    color: rgb(255, 255, 255);
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+    
+}
+
+.banner-title{
+       text-align: center;
+       justify-content: center;
+       
+}
+
+/* main */
+
+.holiday{
+    justify-content: center;
+    align-items: center;
+    padding: 96px ;
+    height: 645px;
+
+}
+
+.off{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-weight: 700;
+    font-size: 88px;
+}
+ 
+.deals{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-weight: 500;
+    font-size: 24px;
+   /* padding-top: 39px; */
+   height: 29px;
+}
+
+.all{
+    text-align: center;
+    color: rgb(7, 2, 17);
+    font-weight: 560;
+    font-size: 38px;
+   padding-top: 10px;
+}
+  
+.new{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 38px;
+    height: 400px;
+
+}
